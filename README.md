@@ -1,7 +1,7 @@
 # ai_for_trading
 Projects from Udacity nanodegree - AI for trading
 
-Certificate[https://confirm.udacity.com/RFFGKTFS]
+[Certificate](https://confirm.udacity.com/RFFGKTFS)
 
 ## Quantitative Trading
 
