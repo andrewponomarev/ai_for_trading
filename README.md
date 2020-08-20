@@ -1,5 +1,5 @@
 # ai_for_trading
-Projects from Udacity nanodegree - AI for trading
+Projects from [Udacity nanodegree - Artifitial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
 [Certificate](https://confirm.udacity.com/RFFGKTFS)
 
